@@ -1,5 +1,5 @@
-# Explore US Bikeshare Data Project
-Basic Udacity project using pandas library in Python for US bikeshare data exploration.
+# Explore US Bikeshare Data
+Udacity project using pandas library in Python for US bikeshare data exploration.
 
 ## Project Overview:
 This project focuses on pandas library usage and simple statistics methods to perform analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
@@ -30,19 +30,19 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 - Finally, the user is prompted with the choice of restarting the program or not.
 
 ## Requirements:
-Language: Python 3.6 or above
-Libraries: pandas, time
+- Language: Python 3.6 or above
+- Libraries: pandas, time
 
 ## Project Data:
-chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+- chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
-new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+- new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
 
-washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
+- washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. No- te: This does not include the 'Gender' or 'Birth Year' data.
 
 ## Author:
 *Ahmed Hassan*
 
 ## Acknowledgements:
-Udacity - Udacity's Data Analyst Nanodegree program
-pandas docs - pandas documentation
+- Udacity - Udacity's Data Analyst Nanodegree program
+- pandas docs - pandas documentation
